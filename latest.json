@@ -1,5 +1,5 @@
 {
-    "version": "1.8.16",
-    "url": "https://github.com/canthou/glaros-updates/releases/download/v1.8.16/Glaros.zip",
-    "notes": "Η νέα εμφάνιση με τη διάταξη της κλασικής · διόρθωση: ρούχο με ολόκληρο το όνομα παίρνει τιμή"
+    "version": "1.8.17",
+    "url": "https://github.com/canthou/glaros-updates/releases/download/v1.8.17/Glaros.zip",
+    "notes": "Ασφάλεια: άλλες ιστοσελίδες δεν μπορούν πλέον να διαβάσουν ή να αλλάξουν τα δεδομένα του Γλάρου · αφαιρέθηκε η σελίδα /admin/db"
 }
